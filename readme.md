@@ -4,6 +4,8 @@ Transforms your map into a locations list
 
 ### Usage
 
+In the cloned repo directory:
+
 ```bash
 GOOGLE_MAPS_GEO_ENCODING_API_KEY=$GOOGLE_MAPS_GEO_ENCODING_API_KEY node ./cli.js $FILENAME > $DESTFILE
 ```
