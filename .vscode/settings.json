@@ -1,0 +1,7 @@
+{
+  "eslint.enable": true,
+  "files.exclude": {
+    "node_modules/": "explorerExcludedFiles",
+    ".vscode/launch.json": "explorerExcludedFiles"
+  }
+}
